@@ -1,0 +1,15 @@
+{
+  "model": "LSTM V4",
+  "history": 168,
+  "horizon": 24,
+  "past_cols": [
+    "is_weekend",
+    "hour_sin",
+    "hour_cos"
+  ],
+  "fut_cols": [
+    "is_weekend",
+    "hour_sin",
+    "hour_cos"
+  ]
+}
